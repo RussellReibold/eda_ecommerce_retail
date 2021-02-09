@@ -5,3 +5,8 @@ Exploratory Data Analysis on a UK e-commerce retail dataset. Exploring the Data,
 - Products — Gifts, Toys, Accesoires
 - Customers — Most times wholesalers (local and international)
 - Transactions Period — 01.12.2010 - 09.12.2011
+
+# What i am working on: 
+- Finish data cleaning, preparation ⏳
+- Upload dataset to AWS Cloud Computing to use Metabase for Insights ⏳
+- Finish question report (data that have raised questions) ⏳
