@@ -5,3 +5,4 @@ In the first part of the EDA, the dataset was analyzed using Python. The followi
 - Remove Missing Values
 - Remove negative quantity and add "total_amount" column
 - Add year, month, day, hour column
+- Changing country names to ther ISO shortcuts (for Metabase mapping function)
