@@ -1,2 +1,2 @@
-## Demo Web Scrapping
-![Web Scrapping Demo](demo/metabase1.png)
+## Dashboard Demo
+![Dashboard](demo/metabase1.png)
