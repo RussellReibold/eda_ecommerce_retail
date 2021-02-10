@@ -10,3 +10,9 @@ Exploratory Data Analysis on a UK e-commerce retail dataset. Exploring the Data,
 - Finish data cleaning, preparation ✅
 - Upload dataset to AWS Cloud Computing to use Metabase for Insights ⏳
 - Finish question report (data that have raised questions) ⏳
+
+
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
