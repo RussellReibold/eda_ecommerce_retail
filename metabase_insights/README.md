@@ -1,2 +1,2 @@
 ## Dashboard Demo
-![Dashboard](demo/metabase1.png)
+![Dashboard](Demo/metabase1.png)
