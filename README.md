@@ -8,7 +8,7 @@ Exploratory Data Analysis on a UK e-commerce retail dataset. Exploring the Data,
 
 # What i am working on: 
 - Finish data cleaning, preparation ✅
-- Upload dataset to AWS Cloud Computing to use Metabase for Insights ⏳
+- Upload dataset to AWS Cloud Computing to use Metabase for Insights ✅
 - Finish question report (data that have raised questions) ⏳
 
 
